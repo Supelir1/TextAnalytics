@@ -8,7 +8,7 @@ nlp = spacy.load('de_core_news_md')
 print(nlp.pipe_names)
 
 
-# mit Methode pipe(<datei>) und Path optimierbar(siehe Zeile 184)
+# mit Methode pipe(<datei>) und Path optimierbar(siehe Zeile 180)
 with open('Gruene.txt', encoding='utf-8', errors='ignore') as g:
     dateiGruene = " ".join(l.rstrip() for l in g)
 with open('spd.txt', encoding='utf-8', errors='ignore') as g:
@@ -23,7 +23,7 @@ with open('AfD.txt', encoding='utf-8', errors='ignore') as g:
     dateiAfD = " ".join(l.rstrip() for l in g)
 
 # für schnelleres Auslesen können bestimmte Aktivitäten während der Tokenisierung noch ausgeschalten werden
-# (siehe Ausgabe Zeile 12)
+# (siehe Ausgabe Zeile 8)
 textGruene = nlp(dateiGruene)
 textSPD = nlp(dateiSPD)
 textLinke = nlp(dateiLinke)
@@ -231,9 +231,3 @@ derived_dataFrameGruene = dataFrameGruene[['Token']]
 # print(dateiGruene.txt)
 # dateiGruene.close()
 '''
-
-
-
-
-
-
