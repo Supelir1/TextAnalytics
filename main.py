@@ -4,7 +4,7 @@ import numpy as np
 import spacy
 from matplotlib import pyplot as plt
 
-<<<<<<< HEAD
+#<<<<<<< HEAD
 nlp = spacy.load('de_core_news_md')
 print(nlp.pipe_names)
 
@@ -232,7 +232,6 @@ derived_dataFrameGruene = dataFrameGruene[['Token']]
 # print(dateiGruene.txt)
 # dateiGruene.close()
 '''
-=======
 if __name__ == '__main__':
 
     # TODO: md oder lg?
@@ -373,7 +372,7 @@ if __name__ == '__main__':
 
     x = np.arange(50)
     plt.xticks(x, listX)
-    plt.bar(listX, listY, color='blue')
+    plt.bar(listX, listY, color='blue', rotate='vertical')
     plt.savefig('graphGruene.png')
     plt.show()
 
@@ -460,4 +459,4 @@ if __name__ == '__main__':
     # print(dateiGruene.txt)
     # dateiGruene.close()
     '''
->>>>>>> 662f3dc7517b6d414defcfc5168b7a20309824cf
+#>>>>>>> 662f3dc7517b6d414defcfc5168b7a20309824cf
