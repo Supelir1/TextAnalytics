@@ -4,10 +4,9 @@ import numpy as np
 import spacy
 from matplotlib import pyplot as plt
 
-#<<<<<<< HEAD
+# <<<<<<< HEAD
 nlp = spacy.load('de_core_news_md')
 print(nlp.pipe_names)
-
 
 # mit Methode pipe(<datei>) und Path optimierbar(siehe Zeile 180)
 with open('Gruene.txt', encoding='utf-8', errors='ignore') as g:
@@ -64,12 +63,14 @@ wordsSPD = [token.lemma_ for token in textSPD if not token.is_stop and
             not token.is_punct and
             not token.is_space and
             token.pos_ != 'NUM' and
-            not token.is_upper]
+            not token.is_upper
+            and token.text != '>']
 wordsLinke = [token.lemma_ for token in textLinke if not token.is_stop and
               not token.is_punct and
               not token.is_space and
               token.pos_ != 'NUM' and
-              not token.is_upper]
+              not token.is_upper and
+              token.text != '\uf0a7']
 wordsCDU = [token.lemma_ for token in textCDU if not token.is_stop and
             not token.is_punct and
             not token.is_space and
@@ -109,7 +110,7 @@ word_freq3 = Counter(wordsCDU)
 word_freq4 = Counter(wordsFDP)
 word_freq5 = Counter(wordsAfD)
 
-w1 = most_freq_nouns = word_freq.most_common(50)
+most_freq_nouns = word_freq.most_common(50)
 most_freq_nouns1 = word_freq1.most_common(50)
 most_freq_nouns2 = word_freq2.most_common(50)
 most_freq_nouns3 = word_freq3.most_common(50)
@@ -118,7 +119,7 @@ most_freq_nouns5 = word_freq5.most_common(50)
 
 listG = []
 i = 0
-for word in most_freq_nouns:
+for word in most_freq_nouns5:
     listG.insert(i, word)
     i += 1
     print(word)
@@ -144,7 +145,7 @@ print('\n')
 x = np.arange(50)
 plt.xticks(x, listX, rotation='vertical')
 plt.bar(listX, listY, color='blue')
-plt.savefig('graphGruene.png')
+plt.savefig('graphAfD.png')
 plt.show()
 
 for word in most_freq_nouns1:
@@ -165,8 +166,6 @@ print('\n')
 
 for word in most_freq_nouns5:
     print(word)
-
-
 
 '''
 # linesGruene = textGruene.split('\n')
@@ -232,6 +231,49 @@ derived_dataFrameGruene = dataFrameGruene[['Token']]
 # print(dateiGruene.txt)
 # dateiGruene.close()
 '''
+
+listG = []
+listX = []
+listY = []
+def plottingPng(most_freq_words, name):
+    listG.clear()
+    i = 0
+
+    for word in most_freq_words:
+        listG.insert(i, word)
+        i += 1
+        print(word)
+
+    print('\n')
+    print(listG)
+    print('\n')
+
+    listX.clear()
+    listY.clear()
+    j = 0
+    for (x, y) in listG:
+        listX.insert(i, x)
+        listY.insert(i, y)
+        j += 1
+
+    print(listX)
+    print('\n')
+    print(listY)
+    print('\n')
+
+    # print(word_freq)
+    print('\n')
+
+    x = np.arange(50)
+    plt.xticks(x, listX)
+    plt.bar(listX, listY, color='blue', rotate='vertical')
+    plt.savefig(name + '.png')
+    if name == 'graphFDP':
+        plt.show()
+
+
+
+
 if __name__ == '__main__':
 
     # TODO: md oder lg?
@@ -241,25 +283,82 @@ if __name__ == '__main__':
     # mit Methode pipe(<datei>) und Path optimierbar(siehe Zeile 180)
     with open('Gruene.txt', encoding='utf-8', errors='ignore') as g:
         dateiGruene = " ".join(l.rstrip() for l in g)
+    textGruene = nlp(dateiGruene)
+    wordsGruene = [token.lemma_ for token in textGruene if not token.is_stop and
+                   not token.is_punct and
+                   not token.is_space and
+                   token.pos_ != 'NUM' and
+                   not token.is_upper]
+    word_freq = Counter(wordsGruene)
+    most_freq_nouns = word_freq.most_common(50)
+    #plottingPng(most_freq_nouns, 'graphGruene')
+
     with open('spd.txt', encoding='utf-8', errors='ignore') as g:
         dateiSPD = " ".join(l.rstrip() for l in g)
+    textSPD = nlp(dateiSPD)
+    wordsSPD = [token.lemma_ for token in textSPD if not token.is_stop and
+                not token.is_punct and
+                not token.is_space and
+                token.pos_ != 'NUM' and
+                not token.is_upper]
+    word_freq1 = Counter(wordsSPD)
+    most_freq_nouns1 = word_freq1.most_common(50)
+    #plottingPng(most_freq_nouns1, 'graphSPD')
+
+
     with open('linke.txt', encoding='utf-8', errors='ignore') as g:
         dateiLinke = " ".join(l.rstrip() for l in g)
+    textLinke = nlp(dateiLinke)
+    wordsLinke = [token.lemma_ for token in textLinke if not token.is_stop and
+                  not token.is_punct and
+                  not token.is_space and
+                  token.pos_ != 'NUM' and
+                  not token.is_upper]
+    word_freq2 = Counter(wordsLinke)
+    most_freq_nouns2 = word_freq2.most_common(50)
+    #plottingPng(most_freq_nouns2, 'graphLinke')
+    
+    
     with open('cdu.txt', encoding='utf-8', errors='ignore') as g:
         dateiCDU = " ".join(l.rstrip() for l in g)
+    textCDU = nlp(dateiCDU)
+    wordsCDU = [token.lemma_ for token in textCDU if not token.is_stop and
+                not token.is_punct and
+                not token.is_space and
+                token.pos_ != 'NUM' and
+                not token.is_upper]
+    word_freq3 = Counter(wordsCDU)
+    most_freq_nouns3 = word_freq3.most_common(50)
+    #plottingPng(most_freq_nouns3, 'graphCDU')
+    
+
     with open('fdp.txt', encoding='utf-8', errors='ignore') as g:
         dateiFDP = " ".join(l.rstrip() for l in g)
+    textFDP = nlp(dateiFDP)
+    wordsFDP = [token.lemma_ for token in textFDP if not token.is_stop and
+                not token.is_punct and
+                not token.is_space and
+                token.pos_ != 'NUM' and
+                not token.is_upper]
+    word_freq4 = Counter(wordsFDP)
+    most_freq_nouns4 = word_freq4.most_common(50)
+    #plottingPng(most_freq_nouns4, 'graphFDP')
+    
     with open('AfD.txt', encoding='utf-8', errors='ignore') as g:
         dateiAfD = " ".join(l.rstrip() for l in g)
-
-    # für schnelleres Auslesen können bestimmte Aktivitäten während der Tokenisierung noch ausgeschalten werden
-    # (siehe Ausgabe Zeile 8)
-    textGruene = nlp(dateiGruene)
-    textSPD = nlp(dateiSPD)
-    textLinke = nlp(dateiLinke)
-    textCDU = nlp(dateiCDU)
-    textFDP = nlp(dateiFDP)
     textAfD = nlp(dateiAfD)
+    wordsAfD = [token.lemma_ for token in textAfD if not token.is_stop and
+                not token.is_punct and
+                not token.is_space and
+                token.pos_ != 'NUM' and
+                not token.is_upper and
+                not token.text == 'AfD']
+    word_freq5 = Counter(wordsAfD)
+    most_freq_nouns5 = word_freq5.most_common(50)
+    #plottingPng(most_freq_nouns5, 'graphAfD')
+    
+    # für schnelleres Auslesen können bestimmte Aktivitäten während der Tokenisierung noch ausgeschalten werden
+
     '''
     wordsGruene = [token.lemma_.lower() for token in textGruene if not token.is_stop and not token.is_punct and not token.is_space]
     wordsSPD = [token.lemma_.lower() for token in textSPD if not token.is_stop and not token.is_punct and not token.is_space]
@@ -284,37 +383,10 @@ if __name__ == '__main__':
                                                             not token.is_space and
                                                             token.pos_ == 'VERB']
     '''
-    wordsGruene = [token.lemma_ for token in textGruene if not token.is_stop and
-                   not token.is_punct and
-                   not token.is_space and
-                   token.pos_ != 'NUM' and
-                   not token.is_upper]
-    wordsSPD = [token.lemma_ for token in textSPD if not token.is_stop and
-                not token.is_punct and
-                not token.is_space and
-                token.pos_ != 'NUM' and
-                not token.is_upper]
-    wordsLinke = [token.lemma_ for token in textLinke if not token.is_stop and
-                  not token.is_punct and
-                  not token.is_space and
-                  token.pos_ != 'NUM' and
-                  not token.is_upper]
-    wordsCDU = [token.lemma_ for token in textCDU if not token.is_stop and
-                not token.is_punct and
-                not token.is_space and
-                token.pos_ != 'NUM' and
-                not token.is_upper]
-    wordsFDP = [token.lemma_ for token in textFDP if not token.is_stop and
-                not token.is_punct and
-                not token.is_space and
-                token.pos_ != 'NUM' and
-                not token.is_upper]
-    wordsAfD = [token.lemma_ for token in textAfD if not token.is_stop and
-                not token.is_punct and
-                not token.is_space and
-                token.pos_ != 'NUM' and
-                not token.is_upper and
-                not token.text == 'AfD']
+
+
+
+
 
     '''noun_freq = Counter(nouns)
     most_freq_nouns = noun_freq.most_common(10)
@@ -331,50 +403,13 @@ if __name__ == '__main__':
         print(verb)
     '''
 
-    word_freq = Counter(wordsGruene)
-    word_freq1 = Counter(wordsSPD)
-    word_freq2 = Counter(wordsLinke)
-    word_freq3 = Counter(wordsCDU)
-    word_freq4 = Counter(wordsFDP)
-    word_freq5 = Counter(wordsAfD)
 
-    w1 = most_freq_nouns = word_freq.most_common(50)
-    most_freq_nouns1 = word_freq1.most_common(50)
-    most_freq_nouns2 = word_freq2.most_common(50)
-    most_freq_nouns3 = word_freq3.most_common(50)
-    most_freq_nouns4 = word_freq4.most_common(50)
-    most_freq_nouns5 = word_freq5.most_common(50)
 
-    listG = []
-    i = 0
-    for word in most_freq_nouns:
-        listG.insert(i, word)
-        i += 1
-        print(word)
-    print('\n')
-    print(listG)
-    print('\n')
 
-    listX = []
-    listY = []
-    i = 0
-    for (x, y) in listG:
-        listX.insert(i, x)
-        listY.insert(i, y)
-        i += 1
-    print(listX)
-    print('\n')
-    print(listY)
-    print('\n')
 
-    # print(word_freq)
-    print('\n')
 
-    x = np.arange(50)
-    plt.xticks(x, listX)
-    plt.bar(listX, listY, color='blue', rotate='vertical')
-    plt.savefig('graphGruene.png')
-    plt.show()
+
+    # plt.show()
 
     for word in most_freq_nouns1:
         print(word)
@@ -459,4 +494,5 @@ if __name__ == '__main__':
     # print(dateiGruene.txt)
     # dateiGruene.close()
     '''
-#>>>>>>> 662f3dc7517b6d414defcfc5168b7a20309824cf
+
+# >>>>>>> 662f3dc7517b6d414defcfc5168b7a20309824cf
