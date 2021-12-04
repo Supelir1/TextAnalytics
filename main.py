@@ -141,7 +141,7 @@ print('\n')
 print('\n')
 
 x = np.arange(50)
-plt.xticks(x, listX)
+plt.xticks(x, listX, rotation='vertical')
 plt.bar(listX, listY, color='blue')
 plt.savefig('graphGruene.png')
 plt.show()
