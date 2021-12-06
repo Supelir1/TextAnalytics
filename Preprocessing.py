@@ -5,17 +5,17 @@ nlp = spacy.load('de_core_news_md')
 print(nlp.pipe_names)
 
 # mit Methode pipe(<datei>) und Path optimierbar(siehe Zeile 180)
-with open('ressources/Gruene.txt', encoding='utf-8', errors='ignore') as g:
+with open('ressources/GRUENE.txt', encoding='utf-8', errors='ignore') as g:
     dateiGruene = " ".join(l.rstrip() for l in g)
-with open('ressources/spd.txt', encoding='utf-8', errors='ignore') as g:
+with open('ressources/SPD.txt', encoding='utf-8', errors='ignore') as g:
     dateiSPD = " ".join(l.rstrip() for l in g)
-with open('ressources/linke.txt', encoding='utf-8', errors='ignore') as g:
+with open('ressources/LINKE.txt', encoding='utf-8', errors='ignore') as g:
     dateiLinke = " ".join(l.rstrip() for l in g)
-with open('ressources/cdu.txt', encoding='utf-8', errors='ignore') as g:
+with open('ressources/CDU.txt', encoding='utf-8', errors='ignore') as g:
     dateiCDU = " ".join(l.rstrip() for l in g)
-with open('ressources/fdp.txt', encoding='utf-8', errors='ignore') as g:
+with open('ressources/FDP.txt', encoding='utf-8', errors='ignore') as g:
     dateiFDP = " ".join(l.rstrip() for l in g)
-with open('ressources/AfD.txt', encoding='utf-8', errors='ignore') as g:
+with open('ressources/AFD.txt', encoding='utf-8', errors='ignore') as g:
     dateiAfD = " ".join(l.rstrip() for l in g)
 
 

@@ -11,17 +11,17 @@ nlp = spacy.load('de_core_news_md')
 print(nlp.pipe_names)
 
 # mit Methode pipe(<datei>) und Path optimierbar(siehe Zeile 180)
-with open('ressources/Gruene.txt', encoding='utf-8', errors='ignore') as g:
+with open('ressources/GRUENE.txt', encoding='utf-8', errors='ignore') as g:
     dateiGruene = " ".join(l.rstrip() for l in g)
-with open('ressources/spd.txt', encoding='utf-8', errors='ignore') as g:
+with open('ressources/SPD.txt', encoding='utf-8', errors='ignore') as g:
     dateiSPD = " ".join(l.rstrip() for l in g)
-with open('ressources/linke.txt', encoding='utf-8', errors='ignore') as g:
+with open('ressources/LINKE.txt', encoding='utf-8', errors='ignore') as g:
     dateiLinke = " ".join(l.rstrip() for l in g)
-with open('ressources/cdu.txt', encoding='utf-8', errors='ignore') as g:
+with open('ressources/CDU.txt', encoding='utf-8', errors='ignore') as g:
     dateiCDU = " ".join(l.rstrip() for l in g)
-with open('ressources/fdp.txt', encoding='utf-8', errors='ignore') as g:
+with open('ressources/FDP.txt', encoding='utf-8', errors='ignore') as g:
     dateiFDP = " ".join(l.rstrip() for l in g)
-with open('ressources/AfD.txt', encoding='utf-8', errors='ignore') as g:
+with open('ressources/AFD.txt', encoding='utf-8', errors='ignore') as g:
     dateiAfD = " ".join(l.rstrip() for l in g)
 
 # für schnelleres Auslesen können bestimmte Aktivitäten während der Tokenisierung noch ausgeschalten werden
@@ -83,7 +83,7 @@ wordsFDP = [token.lemma_ for token in textFDP if not token.is_stop and
             not token.is_space and
             token.pos_ != 'NUM' and
             not token.text == 'Freie' and
-            not token.text == 'Demokraten'
+            not token.text == 'Demokraten' and
             not token.is_upper]
 wordsAfD = [token.lemma_ for token in textAfD if not token.is_stop and
             not token.is_punct and
@@ -285,7 +285,7 @@ if __name__ == '__main__':
     print(nlp.pipe_names)
 
     # mit Methode pipe(<datei>) und Path optimierbar(siehe Zeile 180)
-    with open('ressources/Gruene.txt', encoding='utf-8', errors='ignore') as g:
+    with open('ressources/GRUENE.txt', encoding='utf-8', errors='ignore') as g:
         dateiGruene = " ".join(l.rstrip() for l in g)
     textGruene = nlp(dateiGruene)
     wordsGruene = [token.lemma_ for token in textGruene if not token.is_stop and
@@ -297,7 +297,7 @@ if __name__ == '__main__':
     most_freq_nouns = word_freq.most_common(50)
     #plottingPng(most_freq_nouns, 'graphGruene')
 
-    with open('ressources/spd.txt', encoding='utf-8', errors='ignore') as g:
+    with open('ressources/SPD.txt', encoding='utf-8', errors='ignore') as g:
         dateiSPD = " ".join(l.rstrip() for l in g)
     textSPD = nlp(dateiSPD)
     wordsSPD = [token.lemma_ for token in textSPD if not token.is_stop and
@@ -310,7 +310,7 @@ if __name__ == '__main__':
     #plottingPng(most_freq_nouns1, 'graphSPD')
 
 
-    with open('ressources/linke.txt', encoding='utf-8', errors='ignore') as g:
+    with open('ressources/LINKE.txt', encoding='utf-8', errors='ignore') as g:
         dateiLinke = " ".join(l.rstrip() for l in g)
     textLinke = nlp(dateiLinke)
     wordsLinke = [token.lemma_ for token in textLinke if not token.is_stop and
@@ -323,7 +323,7 @@ if __name__ == '__main__':
     #plottingPng(most_freq_nouns2, 'graphLinke')
     
     
-    with open('ressources/cdu.txt', encoding='utf-8', errors='ignore') as g:
+    with open('ressources/CDU.txt', encoding='utf-8', errors='ignore') as g:
         dateiCDU = " ".join(l.rstrip() for l in g)
     textCDU = nlp(dateiCDU)
     wordsCDU = [token.lemma_ for token in textCDU if not token.is_stop and
@@ -336,7 +336,7 @@ if __name__ == '__main__':
     #plottingPng(most_freq_nouns3, 'graphCDU')
     
 
-    with open('ressources/fdp.txt', encoding='utf-8', errors='ignore') as g:
+    with open('ressources/FDP.txt', encoding='utf-8', errors='ignore') as g:
         dateiFDP = " ".join(l.rstrip() for l in g)
     textFDP = nlp(dateiFDP)
     wordsFDP = [token.lemma_ for token in textFDP if not token.is_stop and
@@ -348,7 +348,7 @@ if __name__ == '__main__':
     most_freq_nouns4 = word_freq4.most_common(50)
     #plottingPng(most_freq_nouns4, 'graphFDP')
     
-    with open('ressources/AfD.txt', encoding='utf-8', errors='ignore') as g:
+    with open('ressources/AFD.txt', encoding='utf-8', errors='ignore') as g:
         dateiAfD = " ".join(l.rstrip() for l in g)
     textAfD = nlp(dateiAfD)
     wordsAfD = [token.lemma_ for token in textAfD if not token.is_stop and
