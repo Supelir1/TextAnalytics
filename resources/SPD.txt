@@ -13,6 +13,7 @@ Hand oder bleibt es dabei, dass die Entwicklung der digitalen Welt von wenigen T
 Sorgen wir für gleiche Teilhabe und mehr Zusammenhalt? Oder nehmen wir es hin, dass unsere
 Gesellschaft immer weiter auseinanderdriftet, so dass Populisten und Nationalisten leichtes Spiel
 haben?
+
 Das neue Jahrzehnt beginnt mit der Herausforderung der Corona-Pandemie. Für viele Bürger*innen und Unternehmen bedeutet diese Krise harte Einschränkungen. Umso bemerkenswerter ist
 die Bereitschaft, Solidarität zu üben, um uns alle zu schützen und dafür auch Einschnitte in die
 persönliche Freiheit zu akzeptieren.
@@ -150,6 +151,7 @@ Industrie ist auf den Weltmärkten weiterhin führend, gerade weil sie CO2-neutr
 und Technologien exportiert, die die klimaneutrale Welt von morgen braucht. So sichern wir die
 Arbeitsplätze für die Zukunft und erreichen gleichzeitig unsere ökologischen Ziele. Klimaschutz ist
 die soziale Aufgabe der nächsten Jahrzehnte.
+
 Um in Deutschland bis spätestens 2045 treibhausgasneutral leben, arbeiten und wirtschaften
 zu können, werden wir dafür sorgen, dass wir unseren Strom spätestens bis zum Jahr 2040 vollständig aus erneuerbaren Energien beziehen. Unser Strombedarf wird in den kommenden Jahren
 und Jahrzehnten deutlich steigen, weil wir anstatt fossiler Energieträger deutlich mehr Strom im
@@ -163,6 +165,7 @@ Erneuerbarer Strom wird in allen Sektoren eingesetzt. Dort, wo eine direkte Elek
 sinnvoll ist, werden wir große Mengen Wasserstoff aus erneuerbaren Energien benötigen. Wasserstoff stößt bei der Verbrennung keinerlei Treibhausgase aus und ist gut speicherbar. Er ist reichlich
 vorhanden und lässt sich durch die Aufspaltung von Wasser in Sauerstoff und Wasserstoff erzeugen. Ohne sauberen Wasserstoff in großindustriell hergestelltem Maßstab ist Klimaneutralität
 nicht zu erreichen.
+
 Wir brauchen mehr Tempo beim Ausbau der Stromnetze, Bahnstrecken, Wasserstoffleitungen und
 Ladesäulen für Elektroautos. Der Ausbau dieser Infrastrukturen muss dem Bedarf vorausgehen.
 Unsere Planungen für den Aufbau einer nachhaltigen Infrastruktur müssen über das Jahr 2025
@@ -192,6 +195,7 @@ weil dadurch die Stromrechnung deutlich sinkt. Wir werden dafür sorgen, dass B�
 niedrigen Einkommen nicht ins Hintertreffen geraten. Mit dem Ansteigen des CO2-Preises werden
 wir für weitere sozial gerechte Ausgleichsmaßnahmen sorgen. Einen Pro-Kopf-Bonus werden wir
 prüfen.
+
 Auch der Gebäudesektor muss schrittweise CO2-neutral werden. Mit dem CO2-Preis wollen wir vor
 allem Investitionen lenken und Vermieter*innen zur Modernisierung motivieren. Gerade im Bestands-Mietwohnungsbau gibt es noch viel zu tun. Wir haben das Ziel, dass bis 2030 fünf Millionen Häuser über innovative Heiz- und Energiesysteme (z.B. Wärmepumpen) versorgt werden. Wir
 werden gesetzliche Regelungen schaffen, dass der CO2-Preis von den Vermieter*innen getragen
@@ -208,6 +212,7 @@ Mit Ressourcen werden wir nicht länger verschwenderisch umgehen. Wir werden uns
 muss deutlich weniger werden. Neben dem Recycling werden wir ein Rohstoffsicherungskonzept
 erarbeiten, um eine sichere Lieferung der für die umweltfreundliche Produktion nötigen Rohstoffe
 zu gewährleisten.
+
 Wir werden Schlüsselindustrien auf ihrem Weg zur Klimaneutralität unterstützen und konkrete
 Transformationsziele entwickeln und fördern. Wir werden Deutschland bis 2030 zum Leitmarkt
 für Wasserstofftechnologien machen – für die klimaneutrale Erzeugung von Stahl, für CO2-arme
@@ -225,6 +230,7 @@ wohnortnahen Anschluss an den öffentlichen Verkehr haben. Dazu nutzen wir die M
 der Digitalisierung: mit neuen Mobilitätsdienstleistungen, die vernetzte Mobilitätsangebote auf
 digitalen Plattformen nutzbar machen. Modelle wie das 365-Euro-Ticket oder Modellprojekte für
 einen ticketfreien Nahverkehr unterstützen wir.
+
 Wir werden einen Mobilitätsplan 2030 auf den Weg bringen, der den öffentlichen Personennahverkehr und den Schienenverkehr auf ein neues Niveau bringt. Der Bund wird durch Austauschprogramme seinen Beitrag leisten, damit alle neuen Busse und Bahnen bis 2030 in den Kommunen
 klimaneutral fahren und die vorhandenen Flotten modernisiert sind. Förderprogramme und ein
 geändertes Straßenverkehrsrecht sollen Kommunen dabei unterstützen, in Städten mehr Fläche
@@ -255,6 +261,7 @@ Die Zukunft gehört den elektrischen Antrieben. Wir wollen diese Entwicklung akt
 damit die Automobilindustrie Leitindustrie bleibt und die Zukunft der vielen kleinen und mittelständischen Zulieferer mit ihren Arbeitsplätzen gesichert ist. Wir wollen die Elektrifizierung des
 Verkehrs massiv voranbringen. 2030 sollen mindestens 15 Millionen PKW in Deutschland voll
 elektrisch fahren.
+
 Wir werden Deutschland zu einem Zentrum der Batteriezellenfertigung und des Recyclings gebrauchter Batterien machen. Im Schwerlastverkehr wird auch die Wasserstoff-Brennstoffzelle eine
 wichtige Rolle spielen. Die weitere Forschung hierzu werden wir unterstützen. Wir unterstützen
 die Automobil-Zulieferindustrie bei der Umstellung ihrer Produktionsprozesse und der Erschließung neuer Geschäftsfelder. Gemeinsam mit Sozialpartnern und lokalen Akteuren werden wir regionale Transformationscluster aufbauen, um neue, qualifizierte und gut bezahlte Beschäftigung
@@ -284,6 +291,7 @@ Zusatzkosten und Extrageräte die Möglichkeit haben, diese Leistungen freiwilli
 beantragen können. Bürger*innen sollen, nach dem Modell einer digitalen Life-Chain, Berechtigungen selbst vergeben und auch wieder löschen können und somit kontrollieren, wer wann auf ihre
 Daten zugreift. Öffentlich finanzierte Software sollte, wo möglich, als Open-Source transparent
 entwickelt und öffentlich zugänglich gemacht werden.
+
 Wir verfolgen das Ziel, dass alle Schulen in Deutschland erstklassig ausgestattet sind. Jedem/r
 Schüler*in muss ein digitales Endgerät und Zugang zum Internet zur Verfügung stehen. Mit dem
 DigitalPakt Schule und dem Konjunkturpaket haben Bund und Länder bereits einen großen Schritt
@@ -321,12 +329,14 @@ fördern. Es braucht mehr Angebote mit hoher Datensouveränität.
 Es muss Alternativen zu den großen Plattformen geben – mit echten Chancen für lokale Anbieter.
 Nutzerdaten müssen geschützt sein und die Nutzer*innen müssen darüber bestimmen können,
 was mit ihren Daten geschieht.
+
 Zu viel Marktmacht einzelner schadet dem Wettbewerb und damit letztlich den Verbraucher*innen. Wir wollen Entwicklungen am Markt voraus sein und ein präventives und proaktives Wettbewerbs- und Kartellrecht schaffen. In das Kartellrecht werden wir verstärkt vorbeugende Kontrollen
 integrieren. Zudem werden wir weitere, neue europäische Instrumente entwickeln, um die übermächtigen Plattformen zu zähmen oder notfalls zu entflechten. Grundlegend notwendig hierfür
 ist die Bewahrung der Netzneutralität, für welche wir einstehen werden.
 Es muss möglich sein, zwischen verschiedenen Messenger-Diensten, sozialen Netzwerken und
 digitalen Diensten und Plattformen zu kommunizieren oder zu wechseln. Diese Interoperabilität
 werden wir gesetzlich vorschreiben.
+
 Wir brauchen in Europa eine selbstbestimmte Entwicklung und Herstellung der notwendigen
 Komponenten und Bauteile, damit nicht ausschließlich US- und chinesische Hersteller über den
 Erfolg und die Netzwerksicherheit digitaler Infrastrukturen in Europa entscheiden. Dafür wollen
@@ -351,6 +361,7 @@ großen Digitalkonzerne profitieren, werden wir Plattformen für den regionalen 
 abwickeln, die Umsatzsteuer nicht zahlen. Wir werden weiterhin konsequent gegen Steuerbetrug
 im Onlinehandel vorgehen. Maßnahmen gegen Lohn-, Sozial- und Umweltdumping werden wir
 vorantreiben.
+
 Jeden Tag bekommen wir Dinge von Algorithmen vorgeschlagen: Neue Songs, Turnschuhe oder
 Routen von A nach B. Selbstlernende Systeme und Algorithmen treffen Entscheidungen für eine
 Vielzahl von Menschen. Sie können unser Leben und unseren Alltag erleichtern. Aber sie müssen
@@ -364,6 +375,7 @@ werden. Wir brauchen daher gut ausgestattete, effektiv arbeitende Datenschutzauf
 Bürger“ durch die Summe der staatlichen Überwachungsmaßnahmen „nicht total erfasst und
 registriert werden“ darf. Wir werden ein dauerhaftes, regelmäßiges und unabhängiges Monitoring
 der Gesetze im Sicherheitsbereich schaffen.
+
 Die anonyme und pseudonyme Nutzung des Netzes schützt viele Journalist*innen und Freiheitskämpfer*innen in aller Welt vor Verfolgung und Bedrohung. Wir sind gegen eine Klarnamenpflicht
 im Netz und setzen uns weiterhin für die Möglichkeit einer anonymen und pseudonymen Nutzung
 ein. Das ist eine wichtige Voraussetzung für eine freie Meinungsäußerung und der beste Schutz
@@ -384,6 +396,7 @@ Deutschland muss wieder seine Innovationskraft einsetzen, um neue Therapieoption
 Dass die gezielte Förderung von Innovationen und neuen Methoden erfolgreich sein kann, hat aktuell das Beispiel BioNtech gezeigt. Es zeigt auch, dass die Gesundheitswirtschaft kein reiner Markt
 ist und eine aktive Rolle des Staates Leben retten kann. Wir wollen ein System, das in Krisensituationen die Produktion, Bereithaltung und Verteilung von notwendiger Arznei und Medizinprodukten sicherstellt. Wir sehen es als unsere Pflicht dafür zu sorgen, dass die Medikamente, die hier
 entwickelt werden, in ärmeren Ländern nicht überteuert und knapp sind.
+
 Eines unserer Ziele ist die Förderung der Forschung zur personalisierten Medizin. Diese muss zu
 erschwinglichen Preisen für alle zugänglich sein. Maßgefertigte Produkte statt Präparate “von der
 Stange” sind Anfang einer neuen Gesundheitswirtschaft und einer neuen Zeit der adaptiven Zulassung von Medikamenten. Personalisierte Medizin bewirkt eine Veränderung im Verhältnis von
@@ -406,6 +419,7 @@ pflegerisches Personal nicht ersetzen wird. Hinter guter medizinischer und psych
 Versorgung und Pflege stehen immer Menschen. Damit vom Pfleger bis zur niedergelassenen
 Ärztin alle die digitale Transformation bewältigen können, sind flächendeckende Weiterbildungsund Unterstützungsangebote unerlässlich. Wir wollen zudem dem Schutz der Patientendaten
 höchste Priorität einräumen.
+
 Ein leistungsfähiges Gesundheitssystem braucht eine stabile und solidarische Finanzierung. Steuerzuschüsse und Investitionsmittel sollten mit klaren Zielvorgaben für die Reform des Systems
 verbunden werden. Wir werden eine Bürgerversicherung einführen. Das bedeutet: Gleich guter
 Zugang zur medizinischen Versorgung für alle, eine solidarische Finanzierung und hohe Qualität
@@ -446,6 +460,7 @@ Produktentwicklungen müssen sich auf den Staat als Nachfrager verlassen können
 Wir müssen besser darin werden, aus Ideen auch Produkte und Dienstleistungen zu machen und
 Start-ups zu fördern. Wir werden dabei die Erkenntnisse aus der Forschung schneller und breiter in
 Innovationen und Investitionen übersetzten.
+
 Eine wichtige Rolle nimmt dabei die Kreditanstalt für Wiederaufbau (KfW) ein, die Mittel am Kapitalmarkt aufnimmt und diese zusammen mit den Förderbanken der Länder in strategisch wichtige
 Zukunftsbranchen lenkt, die den sozial-ökologischen Umbau der Wirtschaft unterstützt und auch
 Start-ups fördert. Wir werden sie zu einer modernen Innovations- und Investitionsagentur weiterentwickeln.
@@ -488,6 +503,7 @@ ihre tatsächliche Arbeitszeit bezahlt werden, unabhängig vom Fach. Es muss gel
 Gehalt für 100 Prozent Arbeit. Wir werden für eine deutlich bessere Vereinbarkeit von Familie und
 Beruf sorgen, neue, dauerhafte Beschäftigungsmöglichkeiten unterhalb der Professur schaffen
 und den Tenure-Track ausweiten.
+
 Wir haben den Zielwert gesamtstaatlicher, also öffentlicher und privater Ausgaben für Forschung
 und Entwicklung, von drei Prozent des BIP bereits in den letzten Jahren übertroffen und wollen ihn
 weiter auf mindestens 3,5 Prozent steigern. Wir werden dazu die Innovationsförderung aufstocken, die Forschung in die mittelständische Praxis mit Partnerschafts- und Kooperationsförderungen vorantreiben und die Förder- und Kreditprogramme für den Mittelstand im Bereich Umwelt-,
@@ -539,6 +555,7 @@ auf das 15-fache des Durchschnittseinkommens der Beschäftigten in dem Betrieb, 
 ­Manager*in beschäftigt ist.
 Bislang gilt bei förderwürdigen Aufwendungen wie zum Beispiel Spenden: Je höher das Einkommen, desto höher die Steuerrückerstattung. Zukünftig soll jede*r eine einkommensunabhängige
 Steuerminderung erhalten.
+
 Wir wollen die Vermögensteuer wieder in Kraft setzen, auch um die Finanzkraft der Länder für
 wichtige Zukunftsaufgaben zu verbessern. Wer sehr viel Vermögen hat, muss einen größeren Beitrag zur Finanzierung unseres Gemeinwesens leisten. Deshalb werden wir unter anderem einen
 maßvollen, einheitlichen Steuersatz von einem Prozent für sehr hohe Vermögen einführen. Gleichzeitig wird es hohe persönliche Freibeträge geben, so dass sich die Steuerbelastung auf besonders
@@ -572,6 +589,7 @@ damit sie häufiger als bisher gewechselt werden müssen. Darüber hinaus setzen
 dass die BaFin mehr Kompetenzen bei der Geldwäscheaufsicht auch für große Unternehmen über
 ihre bisherige Aufsichtszuständigkeit hinaus erhält. Schmutziges Geld darf in Deutschland keine
 Heimat finden.
+
 Der Zoll ist neben der Polizei eine wichtige Institution im Kampf gegen Geldwäsche und Kriminalität. Wir werden die Kompetenzen des Zolls weiter stärken und die für dessen Wahrnehmung der
 Aufgaben verbundene Personalausstattung und Ausrüstung im Bereich illegale Beschäftigung und
 Schwarzarbeit, organisierte Kriminalität, Geldwäsche wirkungsvoll unterstützen.
@@ -586,6 +604,7 @@ Das Silodenken der politischen Ebenen und Ressorts wollen wir überwinden und in
 brauchen eine Modernisierungsoffensive für den öffentlichen Dienst und eine bessere Zusammenarbeit der Verwaltung. In die Entwicklung, Umsetzung und Evaluation von Projekten wollen wir
 wissenschaftliche und wirtschaftliche Expertise, Verbände und die Zivilgesellschaft einbinden und
 das Parlament in seiner Kontrollfunktion stärken.
+
 Die demokratische Gestaltung des digitalen Wandels, die alle Lebensbereiche umfasst, alle gesellschaftlichen, wirtschaftlichen und politischen Felder und Ebenen, ist ein Beispiel für die Überforderung herkömmlicher Organisationsformen mit den Aufgaben unserer Zeit.
 Zum nachhaltigen Regieren gehört, dass Regierungsvorhaben, Projekte und Gesetze in ihrer Umsetzung kommunikativ begleitet werden. Außerdem muss die Umsetzung in den zuständigen
 Verwaltungseinheiten, durch hinreichende Personalausstattung und geeignete Fortbildungsmaßnahmen sichergestellt werden.
@@ -619,6 +638,7 @@ Lebensstandard im Alter sichern.
 Daher setzen wir uns für gerechte Löhne ein. Wir werden die Möglichkeit vereinfachen, Tarifverträge für allgemein verbindlich zu erklären, damit sie für alle Beschäftigten und Arbeitgeber*innen
 in einer Branche gelten. Tarifverträge müssen auch weiter gelten, wenn Betriebe aufgespalten und
 ausgelagert werden.
+
 Wir wollen, dass möglichst viele Unternehmen sich an den Tarifverträgen beteiligen. Die Mitgliedschaft in Arbeitgeberverbänden ohne Tarifbindung ist unanständig. Wir werden diese Praxis zurückzudrängen. Ein öffentlicher Auftrag darf nur an Unternehmen vergeben werden, die nach Tarif
 bezahlen. Dazu schaffen wir ein Bundestariftreuegesetz. Eine bessere Tarifbindung ist darüber
 hinaus eine wichtige Voraussetzung, die Lohnangleichung zwischen Ost und West durchzusetzen.
@@ -643,6 +663,7 @@ Kirchen wollen wir einen Weg erarbeiten, ihr Arbeitsrecht dem allgemeinen Arbeit
 die nach Tarif zahlen, diese auch von der Pflegeversicherung refinanziert bekommen. Nun werden
 wir im Umkehrschluss die Refinanzierung der Pflegeleistungen an die Geltung von Tarifverträgen
 binden.
+
 Es gibt einen gewaltigen Personalmangel in den Krankenhäusern und Pflegeeinrichtungen. Soziale
 Arbeit aufwerten heißt für uns auch, dass die Arbeits- und Stressbelastung gesenkt werden muss.
 Wir werden deshalb den Vorschlag eines neuen, bundesweiten und einheitlichen Personalbemessungsrahmens voranbringen. Pfleger*innen müssen sich beruflich weiterentwickeln können.
@@ -677,6 +698,7 @@ organisiert. Auch hier müssen Arbeitnehmer*innenrechte unvermindert gültig und
 Gewerkschaften sollen ein digitales Zugangsrecht zum „virtuellen“ Betrieb erhalten. Beschäftigte
 auf Plattformen sollen sich zusammenschließen können, um gemeinsam grundlegende Bedingungen ihrer Tätigkeit mit den Plattformen aushandeln können. Wir wollen, dass der Arbeitnehmerstatus einfacher geklärt werden kann. Wir werden ein Verbandsklagerecht der Gewerkschaften
 und ein Beschäftigtendatenschutzgesetz einführen.
+
 Die Corona-Krise hat Teile der Arbeitswelt auf den Kopf gestellt, das Homeoffice hat an Bedeutung
 gewonnen. Der Schreibtisch in den eigenen vier Wänden und Videokonferenzen statt persönlicher
 Begegnung waren anfangs ungewohnt, sind aber inzwischen Alltag und Routine für viele Bürger*innen.
@@ -687,6 +709,7 @@ vollständig erfasst werden und es braucht ein Recht auf Nichterreichbarkeitszei
 Ausstattung sowie guten Unfallversicherungsschutz. Um betriebliche Regelungen zur mobilen
 Arbeit zu fördern, schaffen wir ein Mitbestimmungsrecht zur Einführung und bei der Ausgestaltung mobiler Arbeit. Der Grundsatz der Freiwilligkeit der mobilen Arbeit für Arbeitnehmer*innen
 ist für uns Voraussetzung.
+
 Wir sorgen dafür, dass vom Wandel der Arbeitswelt alle profitieren. Dazu gehört, dass Arbeitszeiten besser zum Leben passen und Menschen mehr selbstbestimmte Zeit haben – etwa für Familie,
 soziales Engagement und Weiterbildung. Wir werden die Schutzfunktion des Arbeitszeitgesetzes
 erhalten. Eine Verlängerung der täglichen Arbeitszeit schließen wir aus. Wenn die Arbeit durch
@@ -721,6 +744,7 @@ Wechsel in eine betriebliche Ausbildung hat für uns hier zu jedem Zeitpunkt Pri
 Wir werden zudem unseren Weg fortsetzen, in den Berufen der Gesundheit, Pflege und Erziehung
 die vollschulischen Ausbildungen dual auszurichten. Damit werden sie kostenfrei und die Auszubildenden erhalten eine Vergütung. Zudem werden wir die dualen akademischen Ausbildungswege und damit die Bedeutung der Professionalität in diesen Berufsfeldern stärken, Qualität sichern
 und Karriereoptionen für die Beschäftigten eröffnen.
+
 Den Lernort Berufsschule werden wird stärken, vor allem im ländlichen Raum und in strukturschwachen Regionen. Dafür schließen wir einen Pakt für berufsbildende Schulen von Bund,
 Ländern und Schulträgern zusammen mit den Sozialpartnern. Im Vordergrund stehen dabei die
 Modernisierung der technischen Ausstattung und eine verbesserte Sicherung des Lehrkräfte-Nachwuchses. Um berufliche und akademische Bildung besser zu verzahnen, werden wir das duale Studium besser fördern. Den Weg der Gebührenfreiheit bei der Aufstiegsfortbildung setzen wir fort.
@@ -733,10 +757,12 @@ wickeln. Sie soll nicht erst im Fall der Arbeitslosigkeit auf den Plan treten, s
 diese gar nicht erst entstehen zu lassen. Die Bundesagentur für Arbeit bauen wir darum zur Bundesagentur für Arbeit und Qualifizierung um, die ein hochwertiges und individuelles Beratungsangebot gewährleistet. Wir werden einen Anspruch auf Qualifizierung einführen, der bereits nach
 drei Monaten ohne neue Erwerbsarbeit greift (Arbeitslosengeld Q). Damit halten wir den Betroffenen den Rücken frei, um sich auf das Wesentliche konzentrieren zu können: Neue Arbeit zu finden,
 um wieder auf eigenen Beinen zu stehen.
+
 Wir schaffen ein Recht auf Weiterbildung und beruflichen Neustart in allen Lebensphasen. Jede*r
 einzelne wird bei den bevorstehenden Veränderungen unterstützt. Wir werden ein Recht schaffen,
 das es Arbeitnehmer*innen auch mit 40plus ermöglicht, noch einmal einen ganz neuen Beruf zu
 erlernen.
+
 Mit unserem Modell der geförderten Bildungszeit und Bildungsteilzeit werden wir ermöglichen,
 dass alle Erwerbstätigen im Lauf ihres Erwerbslebens auf eigene Initiative und mit staatlicher
 Unterstützung unabhängig vom Betrieb sich weiterbilden oder umschulen können. Wer Bildungszeit oder Bildungsteilzeit beantragt, erhält ein Recht, sich von seinem Beruf freistellen zu lassen
@@ -748,13 +774,16 @@ vollständig aus eigener Tasche aufbringen können.
 Mit einem Transformations-Kurzarbeitergeld unterstützen wir die Qualifizierung von Beschäftigten in Betrieben, die sich neu orientieren müssen.
 Neben der individuellen Weiterbildungsförderung wollen wir die Möglichkeiten eines Beschäftigtentransfers stärker fördern, wenn betriebliche Umstrukturierungen oder Betriebsschließungen
 unvermeidlich sind.
+
 Das Bundesausbildungsförderungsgesetz (BAföG) soll in Zukunft wieder mehr junge Erwachsene
 erreichen. Dafür weiten wir die Förderansprüche aus und streben eine schrittweise Rückkehr zum
 Vollzuschuss an. Das neue Kindergeld ist eine Basisabsicherung für alle bis zum Alter von 25 Jahren. Es macht das BAföG elternunabhängiger. Zugleich werden wir das BAföG und das AufstiegsBAföG besser aufeinander abstimmen und perspektivisch zusammenführen. Die Altersgrenzen im
 BAföG werden wir dazu in einem ersten Schritt aufheben. Und wir brauchen ein Neustart-BAföG,
 das auch im Erwachsenenalter neue berufliche Wege öffnen und angemessen den Lebensunterhalt sichert.
 Bereits jetzt besteht die Möglichkeit, dass Arbeitnehmer*innen ihre geleisteten Arbeitsstunden
-auf Langzeitkonten ansparen. Allerdings besteht bislang kein rechtlicher Anspruch darauf und nur
+auf Langzeitkonten ansparen.
+
+ Allerdings besteht bislang kein rechtlicher Anspruch darauf und nur
 ein kleiner Teil der Unternehmen und Arbeitnehmer*innen nutzt Langzeitkonten. Wir werden das
 Instrument zu einem persönlichen Zeitkonto weiterentwickeln, um zusätzlich individuelle Gestaltungsmöglichkeiten entlang des Lebenslaufs zu schaffen. Basis eines solchen Zeitkontos sind
 Zeiteinzahlungen der Beschäftigten – auf diese Weise gehen Überstunden nicht verloren, sondern
@@ -769,6 +798,7 @@ auch länger Arbeitslosengeld I beziehen. Für Bürger*innen, die trotz bester U
 Perspektive auf dem ersten Arbeitsmarkt haben, haben wir den sozialen Arbeitsmarkt eingeführt.
 Er ebnet denjenigen, die seit vielen Jahren von Arbeitslosigkeit betroffen sind, den Weg in reguläre
 sozialversicherungspflichtige Beschäftigungsverhältnisse.
+
 Es hat sich bewährt, sinnvolle und sozial abgesicherte Tätigkeiten zu schaffen. Wir werden den
 sozialen Arbeitsmarkt ausbauen und weiterentwickeln. Auch weiterhin werden wir Arbeitgeber
 mit Lohnkostenzuschüssen unterstützen, die Langzeitarbeitslose sozialversicherungspflichtig einstellen.
@@ -809,6 +839,7 @@ Wir wollen die gesetzliche Rente stärken und stehen für eine dauerhaft stabile
 ein dauerhaftes Rentenniveau von mindestens 48 Prozent. Sollten sich weitere Spielräume ergeben, werden wir sie nutzen. Arbeit darf ihren Wert im Alter nicht verlieren. In Parlament und Regierung haben wir uns erfolgreich für die Grundrente eingesetzt. Sie ist ein Fortschritt und schützt
 viele Menschen, die Jahrzehnte für geringe Löhne gearbeitet haben, vor dem Risiko im Alter arm
 zu sein.
+
 Immer wieder fordern Arbeitgeber und konservative Kräfte, dass Menschen für eine gute Rente
 noch länger arbeiten sollen. Wir lehnen eine weitere Anhebung des gesetzlichen Renteneintrittsalters ab, weil sie für viele, die nicht länger arbeiten können, eine Rentenkürzung bedeutet und
 ungerecht ist. Den gesetzlichen Anspruch, dass besonders langjährig Versicherte vor Erreichen der
@@ -817,6 +848,7 @@ Alterssicherung bedeutet für uns zudem, dass auch die Selbstständigen, Beamt*i
 die Gesamtheit der Erwerbstätigen in die Rentenversicherung aufzunehmen und die Sondersysteme auf lange Sicht zu überwinden. Wenn es zu einer Zusammenführung der Altersversorgung
 der Beamt*innen mit der gesetzlichen Rentenversicherung kommt, wird das Gesamtniveau ihrer
 Alterssicherung nicht reduziert.
+
 Es darf nicht sein, dass jemand wegen gesundheitlicher Beeinträchtigungen in Armut gerät. Wir
 werden daher die Armutsrisiken bei den heutigen Erwerbsminderungsrentner*innen verringern
 und für sie Verbesserungen erreichen. Wir wollen eine geschlechtergerechte Rente. Unterschiedliche Arbeitszeiten und familienbedingte Tätigkeiten bei den Renten werden wir gerechter behandeln. Langjährige Pflege von Eltern, Schwiegereltern oder anderen Familienmitgliedern dürfen sich
@@ -826,6 +858,7 @@ Wir haben es kleinen und mittleren Unternehmen erleichtert, für ihre Beschäfti
 einer betrieblichen Altersversorgung abgesichert sind. Dabei sollten tarifvertraglich vereinbarte
 kollektive Altersversorgungsformen bevorzugt werden. Zudem setzen wir uns für die vollständige Abschaffung der Vollverbeitragung sowie der Doppelverbeitragung von Betriebsrenten in der
 gesetzlichen Krankenversicherung ein.
+
 Wir wollen allen gesetzlich verpflichtet Versicherten zusätzlich die Möglichkeit einräumen, sich
 in angemessenem Umfang ergänzend freiwillig in der gesetzlichen Rentenversicherung zu versichern.
 Eine ergänzende private Altersvorsorge ist kein Ersatz für die gesetzliche Rente. Die bisherigen Ergebnisse der Riester-Rente sind nicht zufriedenstellend. Wir wollen daher bei klassischen privaten
@@ -850,6 +883,7 @@ Bei Pflegebedürftigkeit wollen viele in der eigenen Wohnung bleiben. Dabei sind
 24-Stunden-Pflege angewiesen. Dabei entsteht viel Rechtsunsicherheit zu den wechselseitigen
 Pflichten und Rechten. Wir werden bei der Pflege und der Hilfe im Alltag für rechtliche Klarheit
 sorgen.
+
 Ein besonderes Augenmerk werden wir auf den ländlichen Raum legen. Wir werden im Rahmen
 eines Modellprojektes des Bundes Dienstleistungszentren (DLZ) in kleinen Städten und Gemeinden schaffen, in denen medizinische und haushaltsnahe Dienstleistungen vermittelt werden. Die
 DLZ erkennen darüber hinaus fehlende Angebote und schaffen in Kooperation mit dem sozialen
@@ -870,6 +904,7 @@ erhöht werden. Mietwucher werden wir wirksam unterbinden. Wir werden außerdem 
 und seine Bedeutung stärken. Mietspiegel dürfen keine bloßen Neumietenspiegel sein. Deshalb
 werden wir künftig mindestens die vertraglich vereinbarten Mieten der vergangenen acht Jahre
 bei ihrer Aufstellung heranziehen.
+
 Unsere Bodenpolitik wird am Gemeinwohl orientiert. Bund, Länder und Kommunen sollen öffentliches Eigentum an Grundstücken sichern und vermehren, um die Spekulation mit Grund und
 Boden zu stoppen. Dazu ist das Vorkaufsrecht für Kommunen zu fairen Preisen wichtig.
 Wir werden dazu beitragen, dass kommunale Wohnbauflächen nicht veräußert werden, Flächen
@@ -885,6 +920,7 @@ erleichtern. Wir werden Mietkaufmodelle fördern und ein Programm „Jung-Kauft-
 Menschen, die in Obdachlosigkeit abgerutscht sind, müssen wir als Gesellschaft nachhaltig helfen.
 Deshalb wollen wir eine flächendeckende Umsetzung von Housing-First-Konzepten in den Städten und Kommunen voranbringen. Die sehr hohen Erfolgsquoten dieser Projekte ermöglichen die
 Rückkehr in die eigene Wohnung und damit ein Leben in Würde.
+
 Die Corona-Pandemie verstärkt die Strukturveränderungen in unseren Innenstädten und Stadtteilzentren. Das betrifft den Einzelhandel, die Gastronomie und das Hotelgewerbe ebenso wie
 Museen, Theater, Büchereien und Kinos. Die gemeinsam mit den Ländern getragene Städtebauförderung sichern wir ab. Wir unterstützen die Städte dabei, die Innenstädte lebendig zu halten
 und notwendige Nutzungsänderungen mitgestalten zu können, unter anderem durch eine Mietpreisbegrenzung, einen Mieterschutz im Gewerbeimmobilienbereich, durch Konzepte zur Revitalisierung von Standorten und die Förderung von Co-Working-Spaces in den Innenstädten. Ein
@@ -904,6 +940,7 @@ Wir werden ein Vier-Säulen-Modell für mehr Familienzeit einführen. Die erste 
 Wochen Elternschaftszeit direkt nach Geburt eines Kindes, auf die jeder Vater bzw. der/die Partner*in kurzfristig und sozial abgesichert Anspruch hat. Wir werden damit Familien mit Kindern in
 ihrer allerersten Phase unterstützen und die Voraussetzungen für eine gerechtere Aufteilung von
 Sorgeaufgaben schaffen.
+
 Die zweite Säule ist die Familienarbeitszeit, mit der wir den derzeitigen Partnerschaftsbonus beim
 ElterngeldPlus zu einer flexiblen, geförderten Elternteilzeit nach dem ersten Lebensjahr eines Kindes ausbauen werden. Wenn in Paarfamilien beide Elternteile gleichzeitig oder Alleinerziehende
 etwas weniger als Vollzeit arbeiten, sollen sie zukünftig je zehn Monate ElterngeldPlus erhalten –
@@ -920,6 +957,7 @@ auf Unterstützung (Lohnersatz) bei einer Arbeitszeitreduzierung für jeden nahe
 ab Pflegegrad 2, auf mehrere Pflegepersonen aufteilbar mit einer Mindestarbeitszeit von 15 bis
 20 Stunden. Wichtig ist, dass Unternehmen gezielt auch die Männer ermutigen, dieses Modell zu
 nutzen.
+
 Wir werden dafür sorgen, dass alle Kinder und Jugendlichen unabhängig von ihrer Herkunft die
 gleichen Chancen haben, das Bestmögliche aus ihrem Leben zu machen. Jedes Kind soll gut und
 geborgen aufwachsen und alle jungen Menschen sollen gut ins Erwachsenenleben starten. Die
@@ -942,6 +980,7 @@ notwendig. Der Kampf gegen Bildungsbenachteiligung muss in allen Systemen konseq
 die frühkindliche Bildung weiter ausbauen.
 Ohne bezahlbare Wohnheimangebote ist für viele Auszubildende und Studierende eine erfolgreiche Ausbildung nicht möglich. Wir werden sie ausbauen und zudem das Jugendwohnen im Rahmen der Kinder- und Jugendhilfe zukünftig für junge Menschen bis 27 Jahre ermöglichen sowie
 mehr Räume für Jugendarbeit schaffen.
+
 Zur Unterstützung der beruflichen Orientierung und persönlichen Entwicklung, der Stärkung
 des freiwilligen Engagements muss jeder junge Mensch nach Ende der Schulzeit die Möglichkeit
 haben, sich für ein Jugendfreiwilligenjahr zu entscheiden. Wir werden einen Rechtsanspruch auf
@@ -957,6 +996,7 @@ Jahre senken. Kinder und Jugendliche müssen auf allen Ebenen an politischen Pro
 und Landesjugendhilfeausschüssen haben, die gesetzlich in den Kommunalverfassungen verankert werden müssen. Jugendverbände und bestehende Beteiligungsstrukturen wie Jugendringe,
 Kinder- und Jugendparlamente wollen wir dauerhaft und nachhaltig finanzieren und jedes neue
 Gesetz einem Jugend-Check unterziehen.
+
 Die Mitbestimmungsmöglichkeiten von Jugend- und Auszubildenden-Vertretungen (JAV) werden
 wir verbessern, indem ihr Vertretungsrecht auf alle Beschäftigten in Ausbildung ausgedehnt und
 die Gründung einer JAV erleichtert wird.
@@ -975,6 +1015,7 @@ von Bildungserfolg und Familienhintergrund zu verfestigen und Bildungsbenachteil
 verstärken. Aus diesem Grund starten wir die Bundesinitiative Chancengleichheit in der Bildung.
 Durch ein Bundesprogramm für Schulsozialarbeit werden den Kommunen Mittel zur Förderung
 von Chancenhelfern an jeder Schule bereitgestellt.
+
 Der Grundsatz der gleichwertigen Lebensverhältnisse ist für uns bei der Weiterentwicklung der
 Bund-Länder-Zusammenarbeit maßgebend, damit Kinder und Jugendliche aus wirtschaftlich benachteiligten Familien nicht alleine gelassen werden. Die Mittel von Bund und Ländern müssen
 durch die zusätzliche Einführung von Sozialkriterien da ankommen, wo sie am dringendsten gebraucht werden.
@@ -996,6 +1037,7 @@ mit ein. Wir wollen die Gleichstellung von Männern und Frauen in allen gesellsc
 einem verbindlichen Fahrplan mit konkreten und wirksamen Maßnahmen für alle Politikbereiche
 weiterentwickeln. Und wir kämpfen für die Umsetzung der EU-Gleichstellungsstrategie, das Lösen
 der Blockade von Women on Board und die Paytransparency Richtlinie in der EU.
+
 Gleichberechtigung ist auch eine Frage der politischen Repräsentation. Darum setzen wir uns für
 Paritätsgesetze für den Bundestag, die Länder und Kommunen ein, damit alle Geschlechter in gleichem Maße an politischen Entscheidungen beteiligt sind.
 Das Prinzip des gleichen Lohns für die gleiche und gleichwertige Arbeit muss gelten. Wir haben
@@ -1031,6 +1073,7 @@ Konvention 190) umsetzen. Für von Gewalt betroffene Frauen führen wir einen Re
 auf Beratung und Schutz ein. Wir werden Schwerpunktstaatsanwaltschaften für Femizide einrichten – also zur Verfolgung von Morden an Frauen, die begangen wurden, weil sie Frauen sind und
 setzen uns gesellschaftlich dafür ein, dass Femizide auch als solche benannt werden und nicht als
 „Verbrechen aus Leidenschaft“ oder „Familientragödie“.
+
 Paare, die sich für Kinder entscheiden, brauchen Versorgungssicherheit und die freie Wahl des Geburtsortes. Ob nun stationär oder ambulant in der Klinik, im Geburtshaus oder in den eigenen vier
 Wänden. Für eine gute Geburtsbegleitung ist ein Betreuungsschlüssel für Hebammen notwendig,
 der eine Eins-zu-eins-Betreuung im Kreißsaal vorsieht. Daher muss auch die Geburtshilfe aus dem
@@ -1061,6 +1104,7 @@ auf europäischer Ebene für die Ächtung solcher Diskriminierung einsetzen. Wir
 gegen Gewalt und Diskriminierung, die sich gegen queere Menschen richtet - in Deutschland und
 der Europäischen Union. Wir werden darauf hinwirken, dass die diskriminierende Richtlinie der
 Bundesärztekammer zur Blutspende abgeschafft wird.
+
 In unserer Gesellschaft soll das tägliche Miteinander von Menschen mit und ohne Behinderungen
 selbstverständlich werden. Menschen mit Behinderungen sollen bessere Chancen auf dem Arbeitsmarkt erhalten. Auch für sie gilt das Recht auf gute Arbeit. Das werden wir durch die Stärkung
 der Schwerbehindertenvertretungen und die Weiterentwicklung der Ausgleichsabgabe unterstützen. Viele Menschen mit Behinderungen sind gut oder sogar sehr gut ausgebildet und in Zeiten
@@ -1083,6 +1127,7 @@ Bundes stärken und das Allgemeine Gleichbehandlungsgesetz modernisieren. Gleich
 Islamfeindlichkeit, Antifeminismus, Sexismus und LSBTIQ*-Feindlichkeit vorgehen. Ein besserer
 Austausch und ein abgestimmtes Vorgehen, zum Beispiel durch die Schaffung einer Bund-LänderKommission, ist ein wichtiger Schritt. Zudem müssen Straftaten in diesem Bereich konsequenter
 erfasst und geahndet werden.
+
 Integration ist eine permanente gesellschaftliche, wie auch staatliche Aufgabe. Wir möchten allen
 Menschen, die neu zu uns kommen, den Anspruch auf Integrations- und Beteiligungsangebote gewährleisten. Für das Miteinander stärken wir die Integrations- und Sprachkurse für alle zugewanderten Menschen in Deutschland, zu denen sie – ungeachtet ihrer Staatsangehörigkeit und ihres
 Aufenthaltsstatus – von Tag eins an Zugang haben sollen. Alle Kinder müssen unmittelbar die
@@ -1097,6 +1142,7 @@ Auch der Zustand von jahrelanger Kettenduldungen ist ein Integrationshemmnis und
 Stichtagsregelung beendet werden, um Menschen eine Perspektive zu geben. Die zwangsweise
 Rückführung von Menschen in Länder, in denen ihnen Gefahr für Leib und Leben droht, lehnen wir
 ab.
+
 Gleichwohl muss unsere Integrationsfähigkeit weit mehr als die Finanzierung von Sprach- und Integrationskursen umfassen. Und es geht auch nicht nur um neu Zugezogene. Auch die Kinder und
 Enkel der damals so genannten „Gastarbeiter*innen“ und Vertragsarbeiter*innen“ der 60er Jahre
 erfahren noch heute Diskriminierung im Alltag.
@@ -1134,6 +1180,7 @@ Spitzensport fördern. Darüber hinaus verlieren wir die Belange und Sorgen unse
 nicht aus dem Blick. Bund, Bundesländer und Kommunen sind gleichermaßen aufgefordert, die
 Basis des Sports bei der Überwindung der pandemiebedingten Probleme in besonderer Weise zu
 unterstützen.
+
 Zu einer lebendigen Demokratie gehört eine starke Zivilgesellschaft und ein zeitgemäßes Gemeinnützigkeitsrecht. Daher werden wir prüfen, welche weiteren gesellschaftspolitisch bedeutsamen
 Bereiche in den Katalog gemeinnütziger Zwecke aufgenommen werden können und sicherstellen,
 dass steuerbegünstigte Körperschaften wie Vereine bei der Verfolgung ihrer satzungsmäßigen
@@ -1155,6 +1202,7 @@ dem neben Kommunen, Ländern und Bund auch Kulturproduzent*innen, ihre Verbände
 Zivilgesellschaft vertreten sind, um einen neuen Kulturkonsens über die Aufgaben und Verfahren
 der Kulturpolitik, ein kulturelles Bündnis der Vielfalt und Freiheit zu erarbeiten. Wir wollen Kultur
 als Staatsziel im Grundgesetz verankern.
+
 Zur Förderung der Kultur müssen die bestehenden Infrastrukturen aufrechterhalten und die
 Produktionsmöglichkeiten künstlerischer und kultureller Inhalte auch in der freien Szene gesichert werden. Dazu werden wir die Lebens- und Arbeitsbedingungen von Künstler*innen verstärkt
 berücksichtigen. Zur besseren sozialen Sicherung von freischaffenden Künstler*innen werden wir
@@ -1166,6 +1214,7 @@ finanziell dauerhaft in die Lage zu versetzen, Kunst und Kultur aus eigener Kraf
 werden die Bundeskulturfonds ausbauen und Programme auflegen, mit denen kulturelle Freiräume gesichert und entwickelt werden können. Wir werden die Rahmenbedingen auf den Märkten
 für Kultur- und Kreativwirtschaft so gestalten, dass entsprechende Geschäfts- und Erlösmodelle
 gestärkt werden.
+
 Wir verbessern die Filmförderung durch die Filmförderanstalt (FFA), sichern mit der Novelle des
 Filmfördergesetzes die Einnahmebasis des Filmschaffenden, unterstützen die internationale
 Ausstrahlung deutscher Filme, bewahren das Filmerbe und gestalten die Entscheidungsgremien
@@ -1195,7 +1244,8 @@ unseren Werten und den uns gemeinsam herausfordernden Themen wie dem Kolonialism
 Nationalismus, Rassismus, Antisemitismus und Antiziganismus stellen uns vor neue Herausforderungen insbesondere in der Aufarbeitung der NS-Verbrechen und der Shoa. Wir werden die
 wissenschaftliche und gesichtsdidaktische Aufbereitung der Zeitzeugenberichte und des Quellenmaterials zur NS-Zeit besser unterstützen. Wir werden kleine Initiativen und Gedenkorte stärker
 unterstützen und eingedenk des Versterbens von Zeitzeugen die Entwicklung neuer Formen der
-Gedenkkultur fördern
+Gedenkkultur fördern.
+
 Wir werden die Bundesstiftung Aufarbeitung stärken, damit auch das Engagement der Auseinandersetzung mit der SED-Diktatur landesweit mehr Unterstützung erhält. Wir unterstützen das
 Zukunftszentrum für Europäische Transformation und Deutsche Einheit.
 Mit Blick auf die von Deutschen verübten Kolonialverbrechen werden wir auch bundespolitisch
@@ -1216,6 +1266,7 @@ Mit Sorge nehmen wir wahr, dass Journalist*innen und Medienunternehmen in vielen
 Welt zunehmend durch staatliche Institutionen und Amtsträger angegriffen, bedroht und in ihrer
 Freiheit beeinträchtigt werden. In bilateralen Gesprächen und zwischenstaatlichen Zusammenschlüssen werden wir daher Initiativen für den Schutz der Pressefreiheit sowie der Arbeit von
 Journalist*innen und Medienunternehmen verstärken.
+
 Allen Bürger*innen in Deutschland eine mediale Teilhabe zu ermöglichen, ist eine gemeinsame
 Verantwortung aller Medien sowie der öffentlichen Stellen. Wir wollen barrierefreie Angebote ausbauen und gemeinsam mit den Medienanbietern die Chancen der Digitalisierung und der technischen Möglichkeiten auch hier nutzen.
 Die Corona-Krise hat sehr deutlich gezeigt: Der Bedarf an digital verfügbaren Medien, Bildungsund Kulturinhalten ist groß. Wir setzen uns daher für eine stärkere Vernetzung und Zusammenarbeit zwischen den Akteuren ein, insbesondere aus den Bereichen Medien, Kultur und Bildung.
@@ -1232,6 +1283,7 @@ Für mehr Sicherheit in Deutschland kommt es auf motivierte, gut ausgebildete un
 Behördenmitarbeiter*innen zunehmend angegriffen und beleidigt werden. Sie verdienen Anerkennung und Respekt für ihre Arbeit. Das muss sich auch in einem modernen Dienstrecht, guten
 Arbeitsbedingungen und in einer Angemessenen Bezahlung für Beamt*innen und Mitarbeiter*innen der Polizei widerspiegeln. Bund und Länder müssen als attraktiver öffentlicher Dienst untereinander wieder durchlässiger werden und gleichzeitig gegenüber der Wirtschaft wettbewerbsfähig
 sein.
+
 Wir bekämpfen organisierte Kriminalität, insbesondere den Menschenhandel, wie auch Drogenhandel, bandenmäßige Wohnungseinbrüche und Wirtschaftskriminalität. Wir sorgen dafür, dass
 die Herkunft von schmutzigem Geld einfacher nachweisbar wird. Notwendig sind kontinuierliche
 und flächenübergreifende Strukturermittlungen der Länderpolizeien, der Bundespolizei und des
@@ -1258,6 +1310,7 @@ nur, wenn wir unnötiges Plastik vermeiden und abschaffen. Dort, wo Einweg-Kunst
 Kunststoff muss aufbereitet und wiederverwendet werden. Wir wollen die Hersteller noch stärker
 in die Pflicht nehmen. Produkte müssen so gestaltet werden, dass man sie wiederverwenden,
 recyceln und auch reparieren kann.
+
 Wir setzen uns ein für Biodiversitätspolitik, um Ökosysteme zu schützen und wiederherzustellen.
 Eine besondere Rolle kommt dem Erhalt der Wälder zu. Ebenso wollen wir den Einsatz von Dünger und Pestiziden reduzieren. Ohne leistungsstarke Kohlenstoffsenken kann Deutschland nicht
 klimaneutral werden. Eine besondere Bedeutung fällt dabei Mooren und Wäldern zu. Bestehende Moore müssen geschützt und trockengelegte Moore müssen im großen Stil wieder vernässt
@@ -1272,6 +1325,7 @@ Landwirtschaft sind unverzichtbar für die Sicherung der Lebensmittelversorgung.
 Der Boden, als wichtigstes Gut in der Landwirtschaft, steht den selbst wirtschaftenden Betrieben
 vor Ort zu. Er darf kein Spekulationsobjekt sein. Wir werden ihn vor Investoren ohne Agrarbezug
 schützen.
+
 Tierleid ist nicht zu rechtfertigen, auch nicht aus wirtschaftlichem Interesse. In der Nutztierhaltung setzen wir konsequent auf die Verbesserung des Tierwohls bei Einführung einer flächenbezogenen Obergrenze. Den Antibiotikaeinsatz werden wir reduzieren. Wir werden für die Einführung
 eines verpflichtenden staatlichen Tierwohllabels mit nachvollziehbaren Regeln sorgen und den
 Transport von lebenden Tieren auf acht Stunden begrenzen.
@@ -1307,6 +1361,7 @@ Freiheit und gesellschaftlichem Zusammenhalt verpflichtet haben.
 Ein solches Europa kann seinen Einfluss gleichermaßen zum Schutz und zur Stärkung europäischer
 Werte und Interessen einbringen, als selbstbewusste Friedensmacht auftreten und so eine kooperative, multilaterale Weltordnung mitgestalten, die die Hoffnung auf ein gutes Leben für die
 gesamte Menschheit wirklich macht.
+
 Investitionen sind essentiell für eine nachhaltige europäische Zukunft. Wir werden den Stabilitätsund Wachstumspakt zu einem Nachhaltigkeitspakt weiterentwickeln. Statt einer Rückkehr zur
 Kürzungspolitik der Vergangenheit bleiben wir bei der in der Corona-Krise begonnenen gemeinsamen Investitionspolitik Europas. Eine krisenfeste EU muss fiskalpolitisch handlungsfähig sein und
 sich zu einer echten Fiskal-, Wirtschafts- und Sozialunion weiterentwickeln.
@@ -1330,6 +1385,7 @@ einnehmen.
 Auch die europäische Landwirtschaft als einer der größten Treibhausgasemittenten muss einen
 Beitrag leisten, weg von der Flächenförderung, hin zu einer Förderung, die an Kriterien für Klima,
 Natur- und Umweltschutz und Tierwohl gebunden ist.
+
 In allen Handels-, Wirtschaftspartnerschafts- und Investitionsabkommen der EU werden zukünftig
 neben verbindlichen sozialen Standards wie die ILO-Kernarbeitsnormen sowie menschenrechtlichen und ökologischen Standards auch konkrete Beschwerde- und Sanktionsmechanismen vereinbart. Zudem sollen private Streitschlichtungsmechanismen abgeschafft und durch öffentliche Gerichte ersetzt werden. Wir wollen ein multinationales Investitionsgericht, das bei Diskriminierung,
 sprich der ungleichen Behandlung zwischen Handelspartnern, eingreift. Die Rechte von Arbeitnehmer*innen, strengere Umweltgesetzgebungen, die Umsetzung internationaler Verpflichtungen
@@ -1379,6 +1435,7 @@ Gleichgewicht zwischen Verantwortung und Solidarität voranbringen, das eine Ref
 vollumfänglich wahrt und gewährt. Das Asylsystem soll weiter europäisiert und das Europäische
 Unterstützungsbüro für Asylfragen zu einer vollwertigen europäischen Asylagentur ausgebaut
 werden.
+
 Wir werden die Genfer Flüchtlingskonvention verteidigen. Pushbacks sind eine eklatante Verletzung des Völkerrechts. Seenotrettung ist eine Verpflichtung aus dem internationalen Seerecht und
 darf nicht kriminalisiert werden, sondern sollte auch staatlich durch die EU gewährleistet werden.
 Im Rahmen eines umfassenden Ansatzes sollten legale Migrationswege geschaffen und die Ursachen von Flucht und Vertreibung bekämpft werden. Wir werden eine Brücke zu lokalen Akteuren
@@ -1392,6 +1449,7 @@ Wir setzen uns dafür ein, dass Europa eine Vorreiterrolle bei internationaler K
 Friedens- und Demokratieförderung sowie zum Schutz von Menschenrechten einnimmt. Europas
 Verantwortung in der Entwicklungszusammenarbeit und humanitären Hilfe werden wir durch
 eine Erhöhung der EU-Mittel stärken.
+
 Mehr Eigenständigkeit setzt höhere Handlungsfähigkeit voraus. Grundlegend dafür ist die Einführung von Mehrheitsentscheiden in der Außenpolitik – statt des jetzigen Einstimmigkeitsprinzips.
 Auch das Amt des Hohen Vertreters der EU für Außen- und Sicherheitspolitik sollte langfristig zu
 einem EU-Außenminister weiterentwickelt werden. Wir wollen eine gemeinsame Ausrichtung
@@ -1426,6 +1484,7 @@ Russland legt. Eine konstruktive Dialogbereitschaft seitens Russlands ist Voraus
 Abbau von Spannungen zu arbeiten. Dazu zählt auch, dass der Weg zu einer friedlichen Lösung
 des Ukrainekonflikts und damit einhergehend die Beendigung der Sanktionen maßgeblich von der
 Umsetzung der Minsker Vereinbarungen abhängt.
+
 Die wachsende Bedeutung Chinas in der Welt hat zur Folge, dass eine globale Antwort auf die ökonomischen, ökologischen, sozialen und politischen Herausforderungen unserer Zeit kaum ohne Peking vorstellbar ist. Interessens- und Wertekonflikte mit China nehmen zu. Europa muss den Dialog mit China über Kooperation und Wettbewerb geschlossen, konstruktiv und kritisch führen. Die
 gravierenden Menschenrechtsverletzungen gegenüber Minderheiten, insbesondere uigurischen
 Muslimen, verurteilen wir. Für Honkong muss das international verbriefte Prinzip „Ein Land – zwei
@@ -1464,6 +1523,7 @@ Pariser Klimaabkommens einlösen und weiter steigern. Darüber hinaus werden wir
 Globalen Südens bei der Anpassung an den Klimawandel in ihrer nachhaltigen Entwicklung unterstützen.
 Gute Arbeit und eine intakte Umwelt weltweit stärken gehört zur Kernaufgabe sozialdemokratischer Politik. Wir tun das, indem wir von Unternehmen weltweit die Einhaltung menschenrechtlicher und umweltbezogener Sorgfaltspflichten entlang globaler Lieferketten fordern. Es ist ein großer Erfolg der SPD, dass ein nationales Lieferkettengesetz auf den Weg gebracht werden konnte.
 Wir werden es konsequent weiterentwickeln.
+
 Nun wollen wir auch ein Gesetz zur Rückverfolgung auf dem Weltmarkt gehandelter Güter auf
 europäischer Ebene verankern, mit verbindlichen und sanktionsbewehrten Regeln, Zugang zu Gerichten in Europa und Entschädigung der Opfer. Wir unterstützen ein VN-Abkommen zu Wirtschaft
 und Menschenrechten, um Globalisierung im Sinne der Menschenrechte zu gestalten.
@@ -1518,6 +1578,7 @@ sie an Aushandlungsprozessen beteiligt werden. Deshalb fordern wir, dass die VN-
 Zur Sicherung des Friedens- und der Verteidigung leistet die Bundeswehr einen verantwortungsvollen Beitrag. Wir stehen für das Primat der Politik und für das Leitbild der Inneren Führung der
 Soldat*innen als Staatsbürger*innen in Uniform. Für uns steht fest, dass wir nur mit einer gut ausgestatteten und modernen Bundeswehr unseren Aufgaben als zuverlässiger Partner in Europa und
 der NATO gerecht werden können.
+
 Unsere Soldat*innen können sich auf uns verlassen. Wir haben daher nach vielen Jahren immer
 neuer Sparrunden die Investitionen im Verteidigungshaushalt erhöht. Unsere Soldat*innen verdienen die bestmögliche Ausrüstung und den höchsten Grad an Ausbildung. Ausrüstung statt Aufrüstung - diesem Prinzip verpflichtet, haben wir wesentliche Beschaffungsvorhaben für die Bundeswehr vorangetrieben und setzen uns kontinuierlich für die Verbesserungen der persönlichen
 Ausrüstung und sozialen Absicherung ein. Zugleich werden wir die Attraktivität des Dienstes in
@@ -1530,6 +1591,7 @@ Entgrenzung militärischer Gewalt ebenso entgegenzuwirken wie den Befürchtungen
 der massive Einsatz von bewaffneten Drohnen als Angriffswaffen im Krieg zwischen Aserbaidschan und Armenien und im Libyen-Konflikt gezeigt. Dieser Einsatz hat neue Fragen aufgeworfen,
 die in einer umfassenden Debatte zu berücksichtigen sind. Vor der Entscheidung über ein Nachfolgesystem des Kampfflugzeugs Tornado setzen wir uns für eine gewissenhafte, sachliche und
 sorgfältige Erörterung der technischen nuklearen Teilhabe ein.
+
 Eine Welt ohne Atomwaffen ist und bleibt das Ziel sozialdemokratischer Außenpolitik. Zu einer
 abrüstungspolitischen Offensive gehört, dass bestehende Vereinbarungen über Rüstungskontrolle
 und Abrüstung unbedingt gerettet sowie die Verpflichtungen aus dem Nuklearen Nichtverbreitungsvertrag (NVV) umgesetzt werden. Wir brauchen reale Abrüstungsschritte. Mit der neuen
@@ -1567,6 +1629,7 @@ ein gutes und sicheres Leben ermöglicht.
 Wir wollen aus Träumen Zukunft machen. Wir wollen, dass alle Menschen ihre Wünsche verwirklichen und ihre Ziele erreichen können. Am Anfang ihres Lebens, aber auch wenn sie bereits mitten
 im Leben stehen. Mit gleicher Förderung vom Beginn eines Lebens an, und mit Möglichkeiten sich
 zu entwickeln - ein Leben lang.
+
 Wir wollen eine Gesellschaft, die inklusiv und solidarisch ist und allen Bürger*innen die Teilhabe
 am gesellschaftlichen Leben möglich macht. Ein moderner und starker Sozialstaat ist dafür die
 Grundlage und begegnet allen Menschen mit dem Respekt, den sie verdienen.
