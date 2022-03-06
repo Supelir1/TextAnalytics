@@ -133,3 +133,6 @@ dmypy.json
 /.idea/vcs.xml
 
 *.iml
+
+website/node_modules
+website/package-lock.json

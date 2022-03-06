@@ -6,7 +6,7 @@ Install all requirements with pip:
 
 ### Structure
 * topic_classification.ipynb
-  * The final pipline for classification and summarization
+  * The final pipeline for classification and summarization
 * data_exploration
   * All files used to find out different properties of the data
 * diagrams
@@ -15,6 +15,8 @@ Install all requirements with pip:
   * Here are the party programs of the German parties for the year 2021 in text form
 * summary
   * The code for the extractive summarization
+* website
+  * Source code of the webpage: [https://tadl.kalmbach.dev](https://tadl.kalmbach.dev)
 ---
 ### Distribution of work
 Generally, we tried to work in groups, so the following is an approximation, 
@@ -24,6 +26,7 @@ of which persons are mainly responsible for the corresponding files.
   * [main.ipynb](data_exploration/main.ipynb)
   * [main.py](data_exploration/main.py)
   * [text_summarization.ipynb](summary/text_summarization.ipynb)
+  * [website](website)
 
 * Fabian Karl
   * [topic_modeling_playground.ipynb](data_exploration/topic_modeling_playground.ipynb)
