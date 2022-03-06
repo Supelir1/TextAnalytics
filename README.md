@@ -7,6 +7,8 @@ Install all requirements with pip:
 ### Structure
 * topic_classification.ipynb
   * The final pipeline for classification and summarization
+* classification
+  * Different approaches for the classification
 * data_exploration
   * All files used to find out different properties of the data
 * diagrams
@@ -34,9 +36,12 @@ of which persons are mainly responsible for the corresponding files.
   * [topic_classification.ipynb](topic_classification.ipynb)
 
 * Tim Knittel
+  * [bert_cosine_similarity.ipynb](classification/bert_cosine_similarity.ipynb)
+  * [bertopic.ipynb](classification/bertopic.ipynb)
 
 * Nicolas Zellner
   * [Preprocessing.py](data_exploration/Preprocessing.py)
+  * [hirarchical_dirichlet.ipynb](classification/hirarchical_dirichlet.ipynb)
 
 ### Notes
 * This project was created on [github](https://github.com/Supelir1/TextAnalytics)
