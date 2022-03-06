@@ -25,8 +25,8 @@ Generally, we tried to work in groups, so the following is an approximation,
 of which persons are mainly responsible for the corresponding files.
 
 * Tobias Kalmbach
-  * [main.ipynb](data_exploration/main.ipynb)
-  * [main.py](data_exploration/main.py)
+  * [resource_statistics.ipynb](data_exploration/resource_statistics.ipynb)
+  * [resource_statistics.py](data_exploration/resource_statistics.py)
   * [text_summarization.ipynb](summary/text_summarization.ipynb)
   * [website](website)
 
