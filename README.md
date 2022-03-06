@@ -5,19 +5,19 @@ Install all requirements with pip:
 > pip install -r .\requirements.txt
 
 ### Structure
-* topic_classification.ipynb
-  * The final pipeline for classification and summarization
-* classification
+* **topic_classification.ipynb**
+  * The final pipeline for classification and summarization (final result)
+* **classification**
   * Different approaches for the classification
-* data_exploration
+* **data_exploration**
   * All files used to find out different properties of the data
-* diagrams
+* **diagrams**
   * A selection of graphics for different presentations
-* resources
+* **resources**
   * Here are the party programs of the German parties for the year 2021 in text form
-* summary
+* **summary**
   * The code for the extractive summarization
-* website
+* **website**
   * Source code of the webpage: [https://tadl.kalmbach.dev](https://tadl.kalmbach.dev)
 ---
 ### Distribution of work
